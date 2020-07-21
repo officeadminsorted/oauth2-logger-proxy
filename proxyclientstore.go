@@ -2,7 +2,7 @@ package oauth2_logger_proxy
 
 import (
 	"context"
-	"github.com/officeadminsorted/oauth2/v4"
+	"github.com/officeadminsorted/oauth2/v5"
 	"log"
 )
 
