@@ -11,8 +11,6 @@ github.com/fsnotify/fsnotify v1.4.9/go.mod h1:znqG4EE+3YCdAaPaxE2ZRY/06pZUdp0tY4
 github.com/gavv/httpexpect v2.0.0+incompatible/go.mod h1:x+9tiU1YnrOvnB725RkpoLv1M62hOWzwo5OXotisrKc=
 github.com/go-oauth2/oauth2 v1.2.0 h1:4py1GIc4ZVbO6QfTcrzT7WxLloMiEBvIEgNxRi6Mev0=
 github.com/go-oauth2/oauth2 v3.9.2+incompatible h1:A8gSjq4110EgZDVk4ZtcpusynU2Fto9eM6sXvxL+EOs=
-github.com/go-oauth2/oauth2/v4 v4.1.0 h1:u4enqg7+VRkFW2McDakRHNgArzKlP8dB5X93R1sreTg=
-github.com/go-oauth2/oauth2/v4 v4.1.0/go.mod h1:+rsyi0o/ZbSfhL/3Xr/sAtL4brS+IdGj86PHVlPjE+4=
 github.com/go-session/session v3.1.2+incompatible/go.mod h1:8B3iivBQjrz/JtC68Np2T1yBBLxTan3mn/3OM0CyRt0=
 github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
 github.com/golang/protobuf v1.3.1/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
@@ -43,7 +41,6 @@ github.com/mattn/go-isatty v0.0.12/go.mod h1:cbi8OIDigv2wuxKPP5vlRcQ1OAZbq2CE4Ky
 github.com/moul/http2curl v1.0.0/go.mod h1:8UbvGypXm98wA/IqH45anm5Y2Z6ep6O31QGOAZ3H0fQ=
 github.com/nxadm/tail v1.4.4/go.mod h1:kenIhsEOeOJmVchQTgglprH7qJGnHDVpk1VPCcaMI8A=
 github.com/officeadminsorted/oauth2 v1.2.0 h1:Yj7YXSIAraNgmQq8ADs2gD2wnXbqYt2gVrSz5pX+cUA=
-github.com/officeadminsorted/oauth2 v2.1.0+incompatible h1:L+pY0HZC2Bi2MKR8OpGegL1f+1tmjDV4K3s1xwFehLI=
 github.com/officeadminsorted/oauth2 v2.1.0+incompatible/go.mod h1:p2OpxJ2eOeanRbc9x6movGGEdjbos2DcduQZ0z2Oz1g=
 github.com/officeadminsorted/oauth2/v5 v5.0.1 h1:ljP/lCyCZHbNu8M30brY7U5SLfuy2TkgkazyIJT9RdU=
 github.com/officeadminsorted/oauth2/v5 v5.0.1/go.mod h1:a3QGBoiKi6fnCfw7P6T5fgm5UeISWeTmLxhjWnHzJ/s=
